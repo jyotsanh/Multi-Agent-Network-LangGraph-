@@ -1,2 +1,3 @@
+langgraph-cli
 langchain
 langgraph
