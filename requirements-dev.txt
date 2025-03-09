@@ -1,3 +1,4 @@
 langgraph-cli
 langchain
 langgraph
+pydantic_settings
